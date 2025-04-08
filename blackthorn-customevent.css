@@ -1,3 +1,6 @@
 .floating-label {
      display: none !important;
 }
+.product-item__price {
+     display: none !important;
+}
